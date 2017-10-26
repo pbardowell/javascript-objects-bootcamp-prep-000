@@ -4,5 +4,5 @@ function updatePlaylist(objPL,artist,song) {
 }
 function removeFromPlaylist(objPL,artist) {
   return delete objPL.artist
-  
+
 }
